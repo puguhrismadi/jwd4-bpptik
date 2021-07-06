@@ -15,8 +15,8 @@ JWD practice BPPTIK - Kominfo
    * Perulangan dengan studi kasus form input dan inputan jumlah nilai dan pola bintang bentuk piramida
 ### Pertemuan 1 (Latihan2.php)
 Berisi Mengenai Latihan perhitungan operator matematika sederhana dengan fungsi dalam php 
-sperti fungis : kalikan, bagikan, tambah,kurangi
+sperti fungsi : kalikan, bagikan, tambah,kurangi
 
 ### Pertemuan 1 (Latihan3.php) 
 Berisi Mengenai Latihan perhitungan operator matematika sederhana dengan fungsi dalam php 
-sperti fungis : kalikan, bagikan, tambah,kurangi ditambahkan form input dan css terpisah
+sperti fungsi : kalikan, bagikan, tambah,kurangi ditambahkan form input dan css terpisah
